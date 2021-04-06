@@ -1,8 +1,6 @@
 .not-found__header {
     margin: 0 0 10px 0;
     padding: 0;
-    width: 400px;
-    height: 140px;
     text-align: center;
     font-size: 120px;
     line-height: 140px;
@@ -12,5 +10,4 @@
 
 .not-found__header:hover+.not-found__text {
     opacity: 1;
-    transition: opacity .4s ease-in-out;
 }
